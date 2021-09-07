@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.container-fluid{
+    background-image: url("../img/ce.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+
+.cehead{
+    background: rgb(214, 57, 84);
+    width: 35vw;
+}
+
+.cehead h4{
+    color: white;
+}
+
+.cesearch{
+    background: rgb(214, 57, 84);
+}
+
+.sec{
+    background-color: black !important;
+}
+
+input{
+    width: 300px !important;
+}
+
+.card{
+    border: 1px solid black !important;
+}
+
+
+.counter-list li{
+    list-style: disc;
+    min-width: none !important;
+    /* word-wrap: break-word; */
+}
+
+
+ul {
+    min-width: none;
+    list-style: none;
+  }
+
+  .footer{
+      margin: 0;
+      padding: 0;
+  }

@@ -1,0 +1,20 @@
+.maindiv{
+    background: rgb(214, 57, 83);
+}
+
+.innerdiv{
+    background: white;
+}
+
+.address li{
+
+    list-style: disc;
+    width: 300px;
+    min-width: none !important;
+} 
+ 
+.address{
+    width: 300px;
+    min-width: none !important;
+   
+}
